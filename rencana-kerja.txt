@@ -1,4 +1,6 @@
 RENCANA KERJA
 
 - WEB DEVELOPER
+  ^ FrontEnd Developer
+  ^ BackEnd Developer
 - GRAPHICS DESIGNER
